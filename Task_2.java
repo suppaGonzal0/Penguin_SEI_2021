@@ -1,5 +1,5 @@
 import java.util.*;
-public class Task02{
+public class Task_2{
     static int efficientJanitor(float weight[]){
         Arrays.sort(weight);
         int trips = 0;
